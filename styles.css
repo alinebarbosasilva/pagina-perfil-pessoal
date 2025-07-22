@@ -134,6 +134,12 @@ h2 {
   color: white;
 }
 
+#contato div {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
 #contato p > a {
   color: var(--cor-primaria);
   text-decoration: none;
